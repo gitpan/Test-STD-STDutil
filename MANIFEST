@@ -1,0 +1,6 @@
+lib/Docs/Site_SVD/Test_STD_STDutil.pm
+MANIFEST
+Makefile.PL
+README
+lib/Test/STD/STDutil.pm
+t/Test/STD/STDutil.t
